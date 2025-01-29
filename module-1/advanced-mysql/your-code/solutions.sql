@@ -1,4 +1,5 @@
 -- Write your queries bellow
+
 -- Challenge 1
 
 --- Step 1: Calculate the royalty of each sale for each author and the advance for each author and publication
